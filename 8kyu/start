@@ -1,0 +1,10 @@
+.formContainer {
+  color: rgb(75, 65, 65);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-bottom: 0;
+}
